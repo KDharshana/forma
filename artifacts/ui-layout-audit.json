@@ -1,0 +1,1748 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "viewport": 1440,
+      "id": "component-metric",
+      "width": 363,
+      "height": 384,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-task",
+      "width": 363,
+      "height": 384,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-card",
+      "width": 363,
+      "height": 384,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-button",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-checkbox",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-radio",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-switch",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-slider",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-input",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-formlabel",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-formfield",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-combobox",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-dropdown",
+      "width": 363,
+      "height": 481,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-multiselect",
+      "width": 363,
+      "height": 481,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-calendar",
+      "width": 363,
+      "height": 481,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-datepicker",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-timepicker",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-rating",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-colorpicker",
+      "width": 363,
+      "height": 518,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-richtext",
+      "width": 363,
+      "height": 518,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-filterbar",
+      "width": 363,
+      "height": 518,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-fileuploader",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-toggle",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-navbar",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-navigation",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-drawer",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-tabs",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-segmented",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-pagination",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-stepper",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-activity",
+      "width": 363,
+      "height": 393,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-list",
+      "width": 363,
+      "height": 393,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-tree",
+      "width": 363,
+      "height": 393,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-carousel",
+      "width": 363,
+      "height": 393,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-avatars",
+      "width": 363,
+      "height": 393,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-avatar",
+      "width": 363,
+      "height": 393,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-badges",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-chip",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-progress",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-progressbar",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-spinner",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-skeleton",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-toast",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-accordion",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-divider",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-alertdialog",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-modal",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-bottomsheet",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "component-popover",
+      "width": 363,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-auth-login",
+      "width": 554,
+      "height": 721,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-sign-up",
+      "width": 554,
+      "height": 721,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-forgot-password",
+      "width": 554,
+      "height": 550,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-two-factor",
+      "width": 554,
+      "height": 550,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-app-shell",
+      "width": 554,
+      "height": 570,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-top-nav",
+      "width": 554,
+      "height": 570,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-drawer-nav",
+      "width": 554,
+      "height": 694,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-tenant-switcher",
+      "width": 554,
+      "height": 694,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-kpi-grid",
+      "width": 554,
+      "height": 513,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-dashboard-analytics",
+      "width": 554,
+      "height": 513,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-activity-timeline",
+      "width": 554,
+      "height": 835,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-record-list",
+      "width": 554,
+      "height": 835,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-bulk-actions",
+      "width": 554,
+      "height": 566,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-filter-bottomsheet",
+      "width": 554,
+      "height": 566,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-record-header",
+      "width": 554,
+      "height": 474,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-record-summary",
+      "width": 554,
+      "height": 474,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-tabbed-record",
+      "width": 554,
+      "height": 633,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-comments-notes",
+      "width": 554,
+      "height": 633,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-related-records",
+      "width": 554,
+      "height": 726,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-multi-step-wizard",
+      "width": 554,
+      "height": 726,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-sectioned-form",
+      "width": 554,
+      "height": 945,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-line-items",
+      "width": 554,
+      "height": 945,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-sticky-action-footer",
+      "width": 554,
+      "height": 725,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-kanban-board",
+      "width": 554,
+      "height": 725,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-stage-progression",
+      "width": 554,
+      "height": 470,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-file-manager",
+      "width": 554,
+      "height": 470,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-email-composer",
+      "width": 554,
+      "height": 808,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-invoice-builder",
+      "width": 554,
+      "height": 808,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-order-fulfillment",
+      "width": 554,
+      "height": 715,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-team-management",
+      "width": 554,
+      "height": 715,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-billing-subscription",
+      "width": 554,
+      "height": 872,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-data-export",
+      "width": 554,
+      "height": 872,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-empty-state",
+      "width": 554,
+      "height": 496,
+      "issues": []
+    },
+    {
+      "viewport": 1440,
+      "id": "block-error-state",
+      "width": 554,
+      "height": 496,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-metric",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-task",
+      "width": 350,
+      "height": 384,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-card",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-button",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-checkbox",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-radio",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-switch",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-slider",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-input",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-formlabel",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-formfield",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-combobox",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-dropdown",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-multiselect",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-calendar",
+      "width": 350,
+      "height": 481,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-datepicker",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-timepicker",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-rating",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-colorpicker",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-richtext",
+      "width": 350,
+      "height": 518,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-filterbar",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-fileuploader",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-toggle",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-navbar",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-navigation",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-drawer",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-tabs",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-segmented",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-pagination",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-stepper",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-activity",
+      "width": 350,
+      "height": 393,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-list",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-tree",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-carousel",
+      "width": 350,
+      "height": 393,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-avatars",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-avatar",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-badges",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-chip",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-progress",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-progressbar",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-spinner",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-skeleton",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-toast",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-accordion",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-divider",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-alertdialog",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-modal",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-bottomsheet",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "component-popover",
+      "width": 350,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-auth-login",
+      "width": 350,
+      "height": 666,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-sign-up",
+      "width": 350,
+      "height": 725,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-forgot-password",
+      "width": 350,
+      "height": 550,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-two-factor",
+      "width": 350,
+      "height": 531,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-app-shell",
+      "width": 350,
+      "height": 570,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-top-nav",
+      "width": 350,
+      "height": 462,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-drawer-nav",
+      "width": 350,
+      "height": 694,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-tenant-switcher",
+      "width": 350,
+      "height": 462,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-kpi-grid",
+      "width": 350,
+      "height": 702,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-dashboard-analytics",
+      "width": 350,
+      "height": 538,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-activity-timeline",
+      "width": 350,
+      "height": 689,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-record-list",
+      "width": 350,
+      "height": 835,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-bulk-actions",
+      "width": 350,
+      "height": 462,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-filter-bottomsheet",
+      "width": 350,
+      "height": 630,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-record-header",
+      "width": 350,
+      "height": 462,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-record-summary",
+      "width": 350,
+      "height": 652,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-tabbed-record",
+      "width": 350,
+      "height": 462,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-comments-notes",
+      "width": 350,
+      "height": 721,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-related-records",
+      "width": 350,
+      "height": 549,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-multi-step-wizard",
+      "width": 350,
+      "height": 726,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-sectioned-form",
+      "width": 350,
+      "height": 979,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-line-items",
+      "width": 350,
+      "height": 977,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-sticky-action-footer",
+      "width": 350,
+      "height": 462,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-kanban-board",
+      "width": 350,
+      "height": 725,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-stage-progression",
+      "width": 350,
+      "height": 462,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-file-manager",
+      "width": 350,
+      "height": 534,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-email-composer",
+      "width": 350,
+      "height": 808,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-invoice-builder",
+      "width": 350,
+      "height": 924,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-order-fulfillment",
+      "width": 350,
+      "height": 715,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-team-management",
+      "width": 350,
+      "height": 770,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-billing-subscription",
+      "width": 350,
+      "height": 618,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-data-export",
+      "width": 350,
+      "height": 1160,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-empty-state",
+      "width": 350,
+      "height": 492,
+      "issues": []
+    },
+    {
+      "viewport": 390,
+      "id": "block-error-state",
+      "width": 350,
+      "height": 571,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-metric",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-task",
+      "width": 280,
+      "height": 424,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-card",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-button",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-checkbox",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-radio",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-switch",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-slider",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-input",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-formlabel",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-formfield",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-combobox",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-dropdown",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-multiselect",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-calendar",
+      "width": 280,
+      "height": 481,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-datepicker",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-timepicker",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-rating",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-colorpicker",
+      "width": 280,
+      "height": 472,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-richtext",
+      "width": 280,
+      "height": 542,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-filterbar",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-fileuploader",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-toggle",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-navbar",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-navigation",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-drawer",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-tabs",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-segmented",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-pagination",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-stepper",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-activity",
+      "width": 280,
+      "height": 467,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-list",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-tree",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-carousel",
+      "width": 280,
+      "height": 393,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-avatars",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-avatar",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-badges",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-chip",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-progress",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-progressbar",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-spinner",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-skeleton",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-toast",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-accordion",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-divider",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-alertdialog",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-modal",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-bottomsheet",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "component-popover",
+      "width": 280,
+      "height": 380,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-auth-login",
+      "width": 280,
+      "height": 733,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-sign-up",
+      "width": 280,
+      "height": 725,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-forgot-password",
+      "width": 280,
+      "height": 607,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-two-factor",
+      "width": 280,
+      "height": 552,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-app-shell",
+      "width": 280,
+      "height": 570,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-top-nav",
+      "width": 280,
+      "height": 462,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-drawer-nav",
+      "width": 280,
+      "height": 694,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-tenant-switcher",
+      "width": 280,
+      "height": 537,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-kpi-grid",
+      "width": 280,
+      "height": 704,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-dashboard-analytics",
+      "width": 280,
+      "height": 569,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-activity-timeline",
+      "width": 280,
+      "height": 807,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-record-list",
+      "width": 280,
+      "height": 862,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-bulk-actions",
+      "width": 280,
+      "height": 462,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-filter-bottomsheet",
+      "width": 280,
+      "height": 630,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-record-header",
+      "width": 280,
+      "height": 462,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-record-summary",
+      "width": 280,
+      "height": 686,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-tabbed-record",
+      "width": 280,
+      "height": 462,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-comments-notes",
+      "width": 280,
+      "height": 791,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-related-records",
+      "width": 280,
+      "height": 610,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-multi-step-wizard",
+      "width": 280,
+      "height": 778,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-sectioned-form",
+      "width": 280,
+      "height": 1065,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-line-items",
+      "width": 280,
+      "height": 1031,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-sticky-action-footer",
+      "width": 280,
+      "height": 462,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-kanban-board",
+      "width": 280,
+      "height": 725,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-stage-progression",
+      "width": 280,
+      "height": 462,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-file-manager",
+      "width": 280,
+      "height": 534,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-email-composer",
+      "width": 280,
+      "height": 821,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-invoice-builder",
+      "width": 280,
+      "height": 951,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-order-fulfillment",
+      "width": 280,
+      "height": 744,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-team-management",
+      "width": 280,
+      "height": 942,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-billing-subscription",
+      "width": 280,
+      "height": 688,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-data-export",
+      "width": 280,
+      "height": 1160,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-empty-state",
+      "width": 280,
+      "height": 506,
+      "issues": []
+    },
+    {
+      "viewport": 320,
+      "id": "block-error-state",
+      "width": 280,
+      "height": 571,
+      "issues": []
+    }
+  ]
+}

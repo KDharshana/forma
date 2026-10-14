@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Forma · Native components",
+    "slug": "forma-native",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "web": {
+      "bundler": "metro",
+      "name": "Forma — Thoughtfully native"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "design.forma.showcase"
+    },
+    "plugins": ["expo-status-bar"]
+  }
+}
